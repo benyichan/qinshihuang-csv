@@ -1,0 +1,17 @@
+# build artifacts
+__pycache__/
+*.pyc
+*.pyo
+build/
+*.spec
+
+# large binaries (in Release, not in repo)
+dist/*.exe
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
