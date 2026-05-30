@@ -1,0 +1,14 @@
+# build artifacts
+__pycache__/
+*.pyc
+*.pyo
+build/
+*.spec
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
